@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0015ff&height=300&section=header&text=SHARK%20SEC&fontSize=90&animation=fadeIn&fontAlignY=40&desc=OFFENSIVE%20SECURITY%20%E2%80%A2%20WEB3%20RESEARCH&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0015ff&height=300&section=header&text=SHARK%20SEC&fontSize=90&animation=fadeIn&fontAlignY=40&desc=OFFENSIVE%20SECURITY%20%E2%80%A2%20PENTESTER&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Exposing+the+Unseen;Smart+Contract+Auditor;Solidity+%26+Rust+Exploitation;Zero-Day+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Exposing+the+Unseen;Red+Teaming;Offensive+Security;Bug+Bounty+Hunter" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mainframe-Active-00d2ff?style=flat-square&logo=render" />
-  <img src="https://img.shields.io/badge/Scope-Web3_Protocols-blue?style=flat-square&logo=ethereum" />
-  <img src="https://img.shields.io/badge/Status-Bounty_Hunter-red?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/HackerOne-shark7_7-blue?style=flat-square&logo=hackerone" />
+  <img src="https://img.shields.io/badge/Status-Pentester_Junior-red?style=flat-square&logo=target" />
 </p>
 
 ---
 
-### 🌑 Terminal Entry: 0xShark
-> **Independent Security Researcher** specialized in high-stakes auditing. Focused on breaking logic, state synchronization, and economic attack vectors in decentralized protocols. Currently securing the future of Web3, one report at a time.
+### 🌑 Terminal Entry: shark7_7
+> **Independent Security Researcher** and Red Teaming enthusiast. Focused on offensive security, penetration testing, and exploring vulnerability assessment methodologies. Always building skills and experimenting across tech stacks to solve complex problems.
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### 🧬 Core Stack & Weaponry
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,ts,c,cpp,python,linux,bash,docker,solana,ethereum,github,aws,kubernetes&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,python,linux,bash,docker,git,vscode,html,css&theme=dark&perline=9" />
 </p>
 
 ---
