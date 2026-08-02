@@ -19,24 +19,6 @@
 
 ---
 
-### 🛸 Kinetic Data Overview
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shark-sec&show_icons=true&theme=tokyonight&hide_border=false&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=0a0a0a" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark-sec&layout=compact&theme=tokyonight&hide_border=false&title_color=00d2ff&text_color=ffffff&bg_color=0a0a0a" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shark-sec&theme=tokyonight&hide_border=false&stroke=00d2ff&background=0a0a0a" width="100%" />
-</p>
-
----
-
 ### 🧬 Core Stack & Weaponry
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,linux,bash,docker,git,vscode,html,css&theme=dark&perline=9" />
